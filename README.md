@@ -4,9 +4,9 @@
 I created a responsive and visually appealing landing page that effectively communicates the brand's message while ensuring a seamless user experience. For this task, I designed and developed a responsive landing page "SkillVibe," an educational platform focused on empowering continuous learning.
 
 # Features
-Clear and concise messaging: The page effectively conveys its purpose as a one-stop solution for educational aspirations.
-Strong call to action: The "Search Now" button encourages visitors to explore the available courses.
-Categories: The presence of categories suggests a well-organized platform with a diverse range of offerings.
+* Clear and concise messaging: The page effectively conveys its purpose as a one-stop solution for educational aspirations.
+* Strong call to action: The "Search Now" button encourages visitors to explore the available courses.
+* Categories: The presence of categories suggests a well-organized platform with a diverse range of offerings.
 
 # Screenshots
 
